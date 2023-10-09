@@ -5,8 +5,9 @@
  * Output: [2, 8, 6]
  */
 
+// ! Jangan ubah nama function 
 function cariBilanganGenap(array) {
-    return array.filter(bilangan => bilangan % 2 === 0);
+     // Tulis kodemu disini
 }
 
 module.exports = cariBilanganGenap;

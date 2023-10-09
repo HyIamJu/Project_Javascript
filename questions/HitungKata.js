@@ -7,25 +7,9 @@
  * Output: 4
  */
 
+// ! Jangan ubah nama function 
 function hitungKata(kalimat) {
-    // Menghapus spasi berlebihan dan karakter whitespace di awal dan akhir kalimat
-    kalimat = kalimat.trim().replace(/\s+/g, ' ');
-
-    // Memecah kalimat menjadi array berdasarkan spasi
-    const kataKata = kalimat.split(' ');
-
-    // Inisialisasi jumlah kata
-    let jumlahKata = 0;
-
-    // Menghitung jumlah kata dengan memeriksa setiap kata
-    for (const kata of kataKata) {
-        // Hanya menambah jumlah kata jika kata tersebut tidak kosong
-        if (kata.trim() !== '') {
-            jumlahKata++;
-        }
-    }
-
-    return jumlahKata;
+    // Tulis kodemu disini
 }
 
 module.exports = { hitungKata };

@@ -5,15 +5,9 @@
  * Output: 10
  */
 
+// ! Jangan ubah nama function 
 function cariBilanganTerbesar(array) {
-    let terbesar = array[0];
-    for (let i = 0; i < array.length; i++) {
-        const bilangan = array[i];
-        if (bilangan > terbesar) {
-            terbesar = bilangan;
-        }
-    }
-    return terbesar;
+    // Tulis kodemu disini
 }
 
 module.exports = cariBilanganTerbesar;
