@@ -26,9 +26,9 @@ describe('CariBilanganTerbesar', function () {
 /**
     Jika Anda menjalankan unit test yang disediakan, maka Anda akan mendapatkan hasil berikut:
     Test case 1: Array dengan bilangan terbesar di tengah
-    Hasil yang diharapkan: 10
+    Hasil yang diharapkan: 8
     Test case 2: Array dengan bilangan terbesar di awal
-    Hasil yang diharapkan: 22
+    Hasil yang diharapkan: 10
     Test case 3: Array dengan bilangan terbesar di akhir
-    Hasil yang diharapkan: 14
+    Hasil yang diharapkan: 40
  */
