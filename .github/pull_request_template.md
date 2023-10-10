@@ -1,4 +1,4 @@
-### All Submissions
+# All Submissions
 
 - [ ] Menyelesaikan Cari Bilangan Genap
 - [ ] Menyelesaikan Cari Bilangan Terbesar
