@@ -10,3 +10,6 @@ Repository untuk berkontribusi menggunakan Javascript
 - Jalankan di terminal npm install
 - Kerjakan soal pada folder questions
 - Test hasil jawabanmu pada unit test di folder test
+
+
+-- 
